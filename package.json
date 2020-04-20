@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olewaHHH/blog-demo.git"
+    "url": "https://github.com/330595524/textName.git"
   },
   "author": "handsome_hou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olewaHHH/blog-demo/issues"
+    "url": "https://github.com/330595524/textName/issues"
   },
-  "homepage": "https://github.com/olewaHHH/blog-demo#readme",
+  "homepage": "https://github.com/330595524/textName#readme",
   "devDependencies": {
     "vuepress": "^0.14.8"
   }
